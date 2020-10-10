@@ -1,6 +1,6 @@
 ## Hi, I'm Paty 👩🏻‍💻
 
-<img src="" alt="Banner" />
+<img src="https://res.cloudinary.com/drhetggfq/image/upload/v1602344049/Hola_xrrf6k.gif" alt="Banner" />
 
 
 ### Tech skills
